@@ -13,7 +13,9 @@ http://themis.igpp.ucla.edu/software.shtml
 At the time of writing, the current versions of these particular routines may be accessed at:
 
 http://themis.ssl.berkeley.edu/socware/spedas_3_1/idl/projects/barrel_spd_doc_list.html (general project folder)
+
 http://themis.ssl.berkeley.edu/socware/spedas_3_1/idl/projects/barrel/barrel_sp_v3.7_spd_doc_list.html (barrel_sp_v3.7 subfolder)
+
 http://themis.ssl.berkeley.edu/socware/spedas_3_1/idl/projects/barrel/spedas_plugin_spd_doc_list.html (new SPEDAS plugin)
 
 
